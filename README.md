@@ -1,2 +1,28 @@
-# Incident-Handler-s-Journal
-Incident Handler’s Journal, documenting real-world cyber-security incident scenarios.
+# Incident Handler's Journal
+
+## Overview
+This repository contains my ongoing Incident Handler’s Journal, documenting real-world cybersecurity incident scenarios as part of my training. Each journal entry follows the structured documentation style used in incident response teams, covering the 5 W's (Who, What, When, Where, Why), tools used, and observations.  
+The purpose of this journal is to demonstrate key skills in **incident analysis, reporting, phishing investigations, ransomware handling, access control analysis, vulnerability assessments**, and response planning.
+
+---
+
+## Journal Entries
+
+### 📝 Journal Entry #1 – Ransomware Attack via Phishing
+**Description:**  
+A healthcare clinic experienced a ransomware attack after employees opened malicious email attachments. Files were encrypted, systems became unavailable, and a ransom message appeared demanding payment for decryption.
+
+---
+
+🔜 *More journal entries will be added as I document new incidents and investigations.*
+
+---
+
+## Skills Demonstrated
+- Incident Response Reporting  
+- Ransomware Investigation  
+- Log and Event Analysis  
+- Security Awareness & Email Threats  
+- Incident Documentation and Communication  
+
+---
