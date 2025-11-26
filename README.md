@@ -14,6 +14,12 @@ A healthcare clinic experienced a ransomware attack after employees opened malic
 
 ---
 
+### 📝 Journal Entry #2 – Malware Analysis & IoC Extraction
+**Description:**  
+This entry investigates a suspicious file using VirusTotal to determine whether it is malicious. It analyzes malware behavior, identifies multiple Indicators of Compromise (IoCs), and classifies them according to the Pyramid of Pain. The entry demonstrates practical threat intelligence gathering, malware fingerprinting, and the use of MITRE ATT&CK techniques.
+
+---
+
 🔜 *More journal entries will be added as I document new incidents and investigations.*
 
 ---
