@@ -1,0 +1,103 @@
+# 🛡️ Incident Handler's Journal
+
+A professional log documenting real-world incident response simulations, threat investigations, vulnerability analysis, and observations of malware behavior. Each entry follows a structured format using industry frameworks such as the 5 Ws, Pyramid of Pain, VirusTotal analytics, and MITRE ATT&CK mappings.
+
+---
+
+## 📄 Journal Entry #1 – Ransomware Incident (Phishing-Based Attack)
+
+**Date:** 25/11/2025  
+**Entry:** Journal Entry #1  
+
+**Description:**  
+This entry documents a ransomware attack on a healthcare clinic. Phishing emails led to malware execution, file encryption, and system-wide disruption, preventing access to medical records.
+
+**Tools Used:**  
+SIEM logs • Email Security Gateway • Antivirus/Malware Scanner • Incident Reporting System
+
+---
+
+### 🔍 The 5 W’s
+
+| Question | Details |
+|----------|---------|
+| **Who** | Organized cybercriminal group targeting healthcare organizations |
+| **What** | Employees downloaded malicious attachments, ransomware encrypted critical files |
+| **When** | Tuesday at approximately 9:00 a.m. |
+| **Where** | Multiple employee workstations and network environments in the healthcare clinic |
+| **Why** | Lack of security awareness, no email filtering, execution of a malicious file |
+
+---
+
+**Additional Notes:**  
+This was a targeted attack on a vulnerable sector. Highlighted the need for phishing training, backup strategies, incident response planning, and stronger email filtering. Uncertainty remains about backup availability or law enforcement involvement.
+
+---
+
+---
+
+## 📄 Journal Entry #2 – Malware Hash Investigation & IoC Extraction
+
+**Date:** 26/11/2025  
+**Entry:** Journal Entry #2  
+
+**Description:**  
+Analyzed a suspicious file hash using VirusTotal and extracted related IoCs, categorized using the Pyramid of Pain.
+
+**Tools Used:**  
+VirusTotal • MITRE ATT&CK • OSINT Threat Intelligence
+
+---
+
+### 🔍 The 5 W’s
+
+| Question | Details |
+|----------|---------|
+| **Who** | External threat actors using phishing and malicious attachments |
+| **What** | Password-protected spreadsheet executed malware, creating unauthorized files |
+| **When** | 1:11 p.m. — Email received · 1:13 p.m. — File opened · 1:15 p.m. — Malicious files created · 1:20 p.m. — IDS alert |
+| **Where** | Impacted internal network via employee workstation |
+| **Why** | Poor awareness and insufficient email filtering allowed payload execution |
+
+---
+
+**Additional Notes:**  
+File flagged as malicious by multiple vendors, negative community score, active C2 communication, and PowerShell execution. IoCs should be blocked via firewall, EDR, and SIEM threat feeds.
+
+---
+
+---
+
+## 📌 Journal Entry #3 — *(Template for Future Entries)*
+
+**Date:**  
+**Entry:**  
+
+**Description:**  
+
+**Tools Used:**  
+
+---
+
+### 🔍 The 5 W's
+
+| Question | Details |
+|----------|---------|
+| **Who** |  |
+| **What** |  |
+| **When** |  |
+| **Where** |  |
+| **Why** |  |
+
+---
+
+**Additional Notes:**  
+
+---
+
+## 📓 Reflections & Notes
+
+This journal serves as a live record of incident investigations, threat intelligence work, and IR process development. It will be continuously updated as new simulations and real analyses are completed.
+
+---
+
