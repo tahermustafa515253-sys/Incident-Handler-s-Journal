@@ -21,13 +21,13 @@ This entry investigates a suspicious file using VirusTotal to determine whether 
 ---
 
 ### 📝 Journal Entry #3 – Phishing Alert Response & Ticket Escalation
-**Description:**
+**Description:**  
 This entry focuses on responding to a phishing alert using a formal incident response playbook. The investigation includes alert evaluation, malicious attachment verification, decision-making for escalation or closure, and updating the incident ticket. The response process follows playbook procedures based on alert severity, sender analysis, attachment hash verification, and escalation guidelines.
 
 ---
 
 ### 📝 Journal Entry #4 – Final Incident Report Review (Data Breach)
-**Description:**
+**Description:**  
 This entry analyzes a major data breach involving unauthorized access to customer PII and financial data. It focuses on understanding the incident lifecycle, including root cause, timeline, response actions, and future prevention methods, using details from an official final incident report.
 
 ---
