@@ -26,6 +26,12 @@ This entry focuses on responding to a phishing alert using a formal incident res
 
 ---
 
+### 📝 Journal Entry #4 – Final Incident Report Review (Data Breach)
+**Description:**
+This entry analyzes a major data breach involving unauthorized access to customer PII and financial data. It focuses on understanding the incident lifecycle, including root cause, timeline, response actions, and future prevention methods, using details from an official final incident report.
+
+---
+
 🔜 *More journal entries will be added as I document new incidents and investigations.*
 
 ---
