@@ -32,10 +32,6 @@ This entry analyzes a major data breach involving unauthorized access to custome
 
 ---
 
-🔜 *More journal entries will be added as I document new incidents and investigations.*
-
----
-
 ## Skills Demonstrated
 - Incident Response Reporting  
 - Ransomware Investigation  
